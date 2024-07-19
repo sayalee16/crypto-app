@@ -1,0 +1,25 @@
+.sidebar{
+    min-height: 800px;
+  }
+  .app-container{
+    display: flex;
+  }
+  .content{
+    width: 100%;
+  }
+.show-more,.show-more-2{
+  margin-left: 20px;
+}
+.container{
+  display: flex;
+  margin-top: 20px;
+}
+.coloumn-1,.coloumn-2{
+  flex: 1;
+}
+.spinner{
+  margin-top: 100px;
+}
+.jsx-ques{
+  margin-top: 50px;
+}
